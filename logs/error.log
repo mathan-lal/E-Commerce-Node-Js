@@ -1,0 +1,39 @@
+{"date":"2023-12-28T07:42:32.166Z","level":"error","message":"Invalid credentials","method":"POST","service":"user-service","url":"/login"}
+{"date":"2023-12-28T07:47:30.279Z","level":"error","message":"The Requested Route localhost/login Not Found","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-01-18T13:09:02.499Z","level":"error","message":"Password must contain at least one uppercase letter, one special character, and one number","method":"POST","service":"user-service","url":"/register"}
+{"date":"2024-01-18T13:09:24.966Z","level":"error","message":"Password must contain at least one uppercase letter, one special character, and one number","method":"POST","service":"user-service","url":"/register"}
+{"date":"2024-01-18T13:09:56.639Z","level":"error","message":"User validation failed: name: Path `name` is required.","method":"POST","service":"user-service","url":"/register"}
+{"date":"2024-01-18T13:13:39.936Z","level":"error","message":"User already exists","method":"POST","service":"user-service","url":"/register"}
+{"date":"2024-01-18T13:14:52.339Z","level":"error","message":"Email not verified","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-01-18T15:30:16.583Z","level":"error","message":"User does not exist","service":"user-service"}
+{"date":"2024-01-18T15:30:16.590Z","level":"error","message":"Invalid status code: IncomingMessage {\n  _readableState: [ReadableState],\n  _events: [Object: null prototype] {},\n  _eventsCount: 0,\n  _maxListeners: undefined,\n  socket: [Socket],\n  httpVersionMajor: 1,\n  httpVersionMinor: 1,\n  httpVersion: '1.1',\n  complete: true,\n  rawHeaders: [Array],\n  rawTrailers: [],\n  joinDuplicateHeaders: null,\n  aborted: false,\n  upgrade: false,\n  url: '/login',\n  method: 'POST',\n  statusCode: null,\n  statusMessage: null,\n  client: [Socket],\n  _consuming: true,\n  _dumped: false,\n  next: [Function: next],\n  baseUrl: '/auth',\n  originalUrl: '/auth/login',\n  _parsedUrl: [Url],\n  params: {},\n  query: {},\n  res: [ServerResponse],\n  body: [Object],\n  _body: true,\n  length: undefined,\n  route: [Route],\n  [Symbol(kCapture)]: false,\n  [Symbol(kHeaders)]: [Object],\n  [Symbol(kHeadersCount)]: 16,\n  [Symbol(kTrailers)]: null,\n  [Symbol(kTrailersCount)]: 0\n}","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-01-18T15:35:04.839Z","level":"error","message":"User already exists","method":"POST","service":"user-service","url":"/register"}
+{"date":"2024-01-18T16:10:35.607Z","level":"error","message":{"message":"Product has been not Found"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:12:01.477Z","level":"error","message":{"message":"Product has been not Found"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:13:17.612Z","level":"error","message":{"message":"Product has been not Found"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:13:45.707Z","level":"error","message":{"message":"Product has been not Found"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:21:40.883Z","level":"error","message":{"message":"Product has not been found"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:24:44.163Z","level":"error","message":{"message":"Product has not been found"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:26:19.626Z","level":"error","message":{"message":"Internal Server Error"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:26:50.198Z","level":"error","message":{"message":"Internal Server Error"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:33:45.926Z","level":"error","message":"Parameter \"filter\" to findOne() must be an object, got \"65a946415016acd3a78a1503\" (type string)","method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:34:38.701Z","level":"error","message":"_id is not defined","method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:34:58.655Z","level":"error","message":{"message":"Product has been not Found"},"method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:42:12.608Z","level":"error","message":"productId is not defined","method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T16:46:22.821Z","level":"error","message":"productId is not defined","method":"PUT","service":"user-service","url":"/update-product/65a946415016acd3a78a1503"}
+{"date":"2024-01-18T18:17:48.857Z","level":"error","message":{"message":"Product has not been found"},"method":"POST","service":"user-service","url":"/add-to-cart/65a946415016acd3a78a1503"}
+{"date":"2024-01-20T11:43:14.654Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T11:46:47.885Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T11:47:31.970Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T11:48:04.300Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T11:55:33.841Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T12:45:37.668Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T12:54:52.865Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:00:53.678Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:02:11.401Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:05:04.398Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:05:50.601Z","level":"error","message":"Cannot read properties of undefined (reading 'method')","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:07:08.480Z","level":"error","message":"stock_quantity is not defined","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:17:23.265Z","level":"error","message":"size is not defined","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:18:06.116Z","level":"error","message":"stock_quantity is not defined","method":"POST","service":"user-service","url":"/add-product"}
+{"date":"2024-01-20T13:29:08.511Z","level":"error","message":"size is not defined","method":"POST","service":"user-service","url":"/add-product"}
